@@ -11,10 +11,11 @@ Then i cropped the .gif as per my need here https://ezgif.com/resize
 -->
 
 
-## I'm a Developer \ ITGuy
+## I'm a Configuration Engineer Working at Allscripts
 
-- 🌱 I’m currently learning Azure  🕵🏽‍♀️
+- 🌱 I’m currently working on Platform of Health and Classic Sunrise  🕵🏽‍♀️
 - 🥅 2021 Goals: Get Azure Certified 
+- :telephone: Connect at rohan.basankar@allscripts.com
 
 <br />
 <br />
