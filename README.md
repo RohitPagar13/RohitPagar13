@@ -21,5 +21,5 @@ Then i cropped the .gif as per my need here https://ezgif.com/resize
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Rohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rohanb12&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanbas95&show_icons=true&count_private=true" alt="rohanbas95" />
 </details>
