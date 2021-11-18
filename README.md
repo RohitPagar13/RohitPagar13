@@ -20,3 +20,6 @@ Then i cropped the .gif as per my need here https://ezgif.com/resize
 <br />
 
  <img src="https://github-readme-stats.vercel.app/api?username=rohanbas95&show_icons=true&count_private=true" alt="rohanbas95" />
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbas95" alt="rohanbas95" />
