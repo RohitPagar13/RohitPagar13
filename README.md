@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/rohanb12/rohanb12/blob/main/assets/gitprofile.gif" alt="Hi, I'm Rohan 👋 I'm a 🚀 Developer 🚀">
+</p>
 
 <!--
-**rohanbas95/rohanbas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+How to make this gif ?
+I made my content with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen on windows OS using the xbox recorder (command is win + alt + R) i got the .mp4 file
+Then i converted the .msp to .gif here https://convertio.co/
+Then i cropped the .gif as per my need here https://ezgif.com/resize
 -->
+
+
+## I'm a Developer \ ITGuy
+
+- 🌱 I’m currently learning Azure  🕵🏽‍♀️
+- 🥅 2021 Goals: Get Azure Certified 
+
+<br />
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Rohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rohanb12&show_icons=true&hide_border=true&theme=dark" />
+</details>
