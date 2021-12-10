@@ -1,0 +1,4 @@
+exclude: 
+  - test2
+  - qa
+delete_closed_pr: true
