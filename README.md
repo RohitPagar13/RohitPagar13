@@ -15,7 +15,7 @@ Then i cropped the .gif as per my need here https://ezgif.com/resize
 
 - 🌱 I’m currently working on setting up a end to end CI CD pipeline  🕵🏽‍♀️
 - 🥅 2023 Goals: Get Azure Certified 
-- :telephone: Connect at r.basankarr@allscripts.com
+- :telephone: Connect at r.basankarr@gmail.com
 
 <br />
 <br />
