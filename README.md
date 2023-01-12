@@ -13,9 +13,9 @@ Then i cropped the .gif as per my need here https://ezgif.com/resize
 
 ## I'm a Configuration Engineer Working at Allscripts
 
-- 🌱 I’m currently working on Platform of Health and Classic Sunrise  🕵🏽‍♀️
-- 🥅 2021 Goals: Get Azure Certified 
-- :telephone: Connect at rohan.basankar@allscripts.com
+- 🌱 I’m currently working on setting up a end to end CI CD pipeline  🕵🏽‍♀️
+- 🥅 2023 Goals: Get Azure Certified 
+- :telephone: Connect at r.basankarr@allscripts.com
 
 <br />
 <br />
