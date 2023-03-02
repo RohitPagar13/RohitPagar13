@@ -11,7 +11,7 @@ Then i cropped the .gif as per my need here https://ezgif.com/resize
 -->
 
 
-## I'm a Devops Engineer Working at Ausirion 
+## I'm a Devops Engineer Working at Asurion 
 
 - 🌱 I’m currently working on setting up a end to end CI CD pipeline for UBIF product 🕵🏽‍♀️
 - 🥅 2023 Goals: Get Azure Certified 
